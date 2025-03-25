@@ -17,7 +17,7 @@
 #ifndef __PINS_H__
 #define __PINS_H__
 
-#define SPI_MISO 16
+#define SPI_MISO 15
 #define SPI_SS_N 17
 #define SPI_CLK 18
 #define SPI_MOSI 19
